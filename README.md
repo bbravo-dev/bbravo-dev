@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Bryan 👋
 
-<!--
-**bbravo-dev/bbravo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Frontend / Fullstack Developer focused on building real-world 
+web and mobile applications.
 
-Here are some ideas to get you started:
+## 🧩 Tech Stack
+- React, React Native (Expo)
+- TypeScript, JavaScript (ES6+)
+- Supabase (Auth, Storage, Database)
+- HTML, CSS, Tailwind
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- 🌱 **PlantMind** – Plant identification mobile app using PlantNet API
+- 🛒 **TrustMarket** – Marketplace MVP with authentication and image upload
+- 📚 **Supabase Image CRUD** – Basic library to upload and download images
+
+## 🎯 What I'm looking for
+Remote junior opportunities in international teams where I can grow, 
+learn from experienced developers and contribute to production-ready products.
